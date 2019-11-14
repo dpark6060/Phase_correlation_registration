@@ -8,6 +8,8 @@ frequency domain transformations preserve the full original information, and onl
 wrkdir is an input directory that contains ONLY the t1 images you wish to work on.  
 
 
+Uses test data from https://www.dropbox.com/sh/myfy8hdfdldn99v/AAChKo-hOZRQALEvpc33hJAUa/FNK_001_2019-10-23?dl=0&subfolder_nav_tracking=1
+
 Supporting literature:
 
 https://www.researchgate.net/profile/Carl-Fredrik_Westin/publication/224744658_Registration_of_multidimensional_image_data_via_subpixel_resolution_phase_correlation/links/0912f512b8f28e9694000000/Registration-of-multidimensional-image-data-via-subpixel-resolution-phase-correlation.pdf
