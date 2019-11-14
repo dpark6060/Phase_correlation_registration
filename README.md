@@ -14,12 +14,15 @@ Uses test data from https://www.dropbox.com/sh/myfy8hdfdldn99v/AAChKo-hOZRQALEvp
 
 using 10 images found in the folder linked above:
 reference image:
-![reference](https://github.com/dpark6060/Phase_correlation_registration/blob/master/average_uncorrected.png)
+
+![reference](https://github.com/dpark6060/Phase_correlation_registration/blob/master/reference.png)
 
 average of 10 uncorrected images:
+
 ![uncorrected](https://github.com/dpark6060/Phase_correlation_registration/blob/master/average_uncorrected.png)
 
 average of 10 corrected images:
+
 ![corrected](https://github.com/dpark6060/Phase_correlation_registration/blob/master/average_corrected.png)
 
 Supporting literature:
