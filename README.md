@@ -8,7 +8,19 @@ frequency domain transformations preserve the full original information, and onl
 wrkdir is an input directory that contains ONLY the t1 images you wish to work on.  
 
 
+
 Uses test data from https://www.dropbox.com/sh/myfy8hdfdldn99v/AAChKo-hOZRQALEvpc33hJAUa/FNK_001_2019-10-23?dl=0&subfolder_nav_tracking=1
+
+
+using 10 images found in the folder linked above:
+reference image:
+![reference](https://github.com/dpark6060/Phase_correlation_registration/blob/master/average_uncorrected.png)
+
+average of 10 uncorrected images:
+![uncorrected](https://github.com/dpark6060/Phase_correlation_registration/blob/master/average_uncorrected.png)
+
+average of 10 corrected images:
+![corrected](https://github.com/dpark6060/Phase_correlation_registration/blob/master/average_corrected.png)
 
 Supporting literature:
 
